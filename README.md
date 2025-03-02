@@ -12,5 +12,4 @@ I'm a final year **Civil Engineering** student at the **Indian Institute of Tech
     
 ## **Let's Connect!**
 - **Email**: premnand5657@gmail.com  
-- **LinkedIn**: [Prem Nand](https://www.linkedin.com/in/prem-nand)  
-- **Phone**: +91-8860510768
+- **LinkedIn**: [Prem Nand](https://www.linkedin.com/in/prem-nand)
