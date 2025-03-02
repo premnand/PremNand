@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Prem Nand
 
-<!--
-**premnand/PremNand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final year **Civil Engineering** student at the **Indian Institute of Technology Roorkee (IIT Roorkee)** with a strong passion for **data analysis, machine learning, and business analysis**. I enjoy solving complex problems using data-driven approaches and have hands-on experience in Python, SQL, and data visualization tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Skills & Expertise**
+- Excel, Power BI
+- Python, SQL, C++
+- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Machine Learning
+- Probability, Statistics, Linear Algebra
+- Problem-Solving, Data-Driven Decision Making
+    
+## **Let's Connect!**
+- **Email**: premnand5657@gmail.com  
+- **LinkedIn**: [Prem Nand](https://www.linkedin.com/in/prem-nand)  
+- **Phone**: +91-8860510768
