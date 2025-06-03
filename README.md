@@ -1,6 +1,6 @@
 # Hi, I'm Prem Nand
 
-I'm a final year **Civil Engineering** student at the **Indian Institute of Technology Roorkee (IIT Roorkee)** with a strong passion for **data analysis, machine learning, and business analysis**. I enjoy solving complex problems using data-driven approaches and have hands-on experience in Python, SQL, and data visualization tools.
+I have completed my **B.Tech** in **Civil Engineering** from the **Indian Institute of Technology Roorkee (IIT Roorkee)** with a strong passion for **data analysis, machine learning, and business analysis**. I enjoy solving complex problems using data-driven approaches and have hands-on experience in **Excel**, **SQL**, **Python**, and data visualization tools like **Power BI**. 
 
 ## **Skills & Expertise**
 - Excel, Power BI
