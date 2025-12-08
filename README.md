@@ -1,15 +1,14 @@
-# Hi, I'm Prem Nand
+# Hi, I'm Prem Nand 
 
-I have completed my **B.Tech** in **Civil Engineering** from the **Indian Institute of Technology Roorkee (IIT Roorkee)** with a strong passion for **data analysis, machine learning, and business analysis**. I enjoy solving complex problems using data-driven approaches and have hands-on experience in **Excel**, **SQL**, **Python**, and data visualization tools like **Power BI**. 
+I'm a Data Analyst with hands-on experience in SQL, Python, Excel, BigQuery, AppSheet, and dashboarding tools like Looker Studio and Power BI.  
+I enjoy cleaning messy datasets, building automations, creating clear visualizations, and solving problems through data.
 
-## **Skills & Expertise**
-- Excel, Power BI
-- Python, SQL, C++
-- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- Machine Learning
-- Probability, Statistics, Linear Algebra
-- Problem-Solving, Data-Driven Decision Making
-    
-## **Let's Connect!**
-- **Email**: premnand5657@gmail.com  
-- **LinkedIn**: [Prem Nand](https://www.linkedin.com/in/prem-nand)
+## Skills
+- **Programming:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Data Tools:** Excel (Advanced), Power BI, Looker Studio, BigQuery, AppSheet  
+- **Concepts:** Data Cleaning, Dashboards, Automation, Machine Learning Basics, Statistics  
+
+## Let's Connect
+- **LinkedIn:** [Prem Nand](https://linkedin.com/in/prem-nand)  
+- **Email:** premnand5657@gmail.com
