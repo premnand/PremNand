@@ -12,3 +12,4 @@ I enjoy cleaning messy datasets, building automations, creating clear visualizat
 ## Let's Connect
 - **LinkedIn:** [Prem Nand](https://linkedin.com/in/prem-nand)  
 - **Email:** premnand5657@gmail.com
+- **LeetCode:** [Prem Nand](https://leetcode.com/u/prem_nand/)
