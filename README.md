@@ -6,7 +6,7 @@ I enjoy cleaning messy datasets, building automations, creating clear visualizat
 ## Skills
 - **Programming:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Data Tools:** Excel (Advanced), Power BI, Looker Studio, BigQuery, AppSheet  
+- **Data Tools:** Excel (Advanced), Power BI, Looker Studio, BigQuery, AppSheet, Notion
 - **Concepts:** Data Cleaning, Dashboards, Automation, Machine Learning Basics, Statistics  
 
 ## Let's Connect
